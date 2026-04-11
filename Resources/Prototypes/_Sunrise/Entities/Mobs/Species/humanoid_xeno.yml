@@ -26,6 +26,9 @@
   - type: Temperature
     currentTemperature: 310.15
   - type: TemperatureDamage
+    coldDamage:
+      types:
+        Cold: 0
     heatDamage:
       types:
         Heat: 3
